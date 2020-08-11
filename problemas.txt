@@ -1,0 +1,5 @@
+Problemas:
+
+O selenium procura as mensagens por argumentos de classe que mudam periodicamente,
+o que gera a necessidade de sempre atualizar o codigo. Se houvesse como tornar essa
+busca permanente(por botões etc), seria mais fácil.
